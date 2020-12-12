@@ -1,0 +1,5 @@
+Credentials cache: API:7E03713D-2491-4D0F-9465-01D9E070F113
+        Principal: ebrovard@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 25 15:02:52 2020  Nov 26 01:02:47 2020  krbtgt/42ROMA.IT@42ROMA.IT
